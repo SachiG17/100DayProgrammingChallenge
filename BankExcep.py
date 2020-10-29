@@ -1,3 +1,11 @@
+ 
+#Write a program to throw the following exception
+#1.MinimumBal exception if withdrawal amount is greater than available balance 
+#2.NegativeBalance exception if withdrawal maount is zero or less than zero
+#3.The amount available after the money withdrawal if both exceptions occur
+
+
+
 class MinBalException(Exception):
     def __init__(self,message):
         self.msg=message
