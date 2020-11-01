@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patch
 
  
-# the colors in the triangle
+
 yellow=patch.Rectangle((0,5),width=10,height=4,facecolor='#ffff08')
 
 red=patch.Rectangle((0,1),width=10,height=4,facecolor='#ff0000')
