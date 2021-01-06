@@ -26,3 +26,4 @@ print(stack)
 
 print("popped item is ",pop(stack))
 print("stack after popping",str(stack))
+
