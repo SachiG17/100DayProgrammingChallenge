@@ -1,8 +1,9 @@
+#Checking the type of varibales
 Name="sachin"
 print(type(Name))
 
 Marks=99
 print(type(Marks))
 
-flaot_number=5.68
-print(type(flaot_number))
+float_number=5.68
+print(type(float_number))
